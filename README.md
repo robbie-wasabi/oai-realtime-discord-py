@@ -1,4 +1,3 @@
-```markdown
 # Discord Voice AI Assistant
 
 Real-time voice chat bot that joins Discord voice channels and participates in conversations using OpenAI's API.
@@ -57,4 +56,3 @@ python main.py
 ## License
 
 MIT
-```
